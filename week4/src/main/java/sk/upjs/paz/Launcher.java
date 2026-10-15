@@ -9,20 +9,20 @@ public class Launcher {
 
 	public static void main(String[] args) {
 		GridPane sandbox = new GridPane();
+		OdoTurtle odo = new OdoTurtle();
 //		StringTurtle franklin = new StringTurtle();
 
+		sandbox.add(odo);
 //		sandbox.add(franklin);
 
 		ObjectInspector oi = new ObjectInspector();
 //		oi.inspect(franklin);
-		oi.inspect(sandbox);
+//		oi.inspect(sandbox);
+		oi.inspect(odo);
 
 
 		sandbox.drawGrid();
 		sandbox.resetColorSet();
 
-		StringBuilder meno = new StringBuilder();
-
-		
 	}
 }

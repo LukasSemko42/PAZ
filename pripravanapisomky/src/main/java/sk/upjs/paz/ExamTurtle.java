@@ -13,4 +13,16 @@ public class ExamTurtle extends Turtle {
         }
         return result;
     }
+//    PISOMKA 3:
+//    public boolean isPerfectNumber(int n){
+//        int sucet=0;
+//        for (int i = 1; i <= n; i++) {
+//            if (n%i==0){
+//                sucet+=i;
+//            }
+//        }
+//        if (sucet==(2*n)){
+//            return true;
+//        } else return false;
+//    }
 }
