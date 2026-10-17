@@ -10,7 +10,7 @@
     <artifactId>week3</artifactId>
     <packaging>jar</packaging>
 
-    <name>week_3</name>
+    <name>week3</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
