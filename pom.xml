@@ -10,8 +10,7 @@
 	<name>PAZ</name>
 	<modules>
 		<module>week0</module>
-        <module>Cvicenie01</module>
-		<module>Cvicenie01</module>
+        <module>week1</module>
         <module>week2</module>
         <module>pripravanapisomky</module>
 		<module>week_3</module>
