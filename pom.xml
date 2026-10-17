@@ -16,6 +16,7 @@
         <module>pripravanapisomky</module>
 		<module>week_3</module>
         <module>week4</module>
+        <module>TestovaciaUloha</module>
     </modules>
 
 	<properties>
